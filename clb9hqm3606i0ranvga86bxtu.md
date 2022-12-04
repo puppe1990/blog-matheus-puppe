@@ -1,0 +1,9 @@
+# Cohesion and Coupling in ruby
+
+In computer programming, the terms cohesion and coupling refer to the degree to which the elements of a system (such as a software application or a programming language) work together and depend on each other. High cohesion means that the elements of the system are closely related and work together to achieve a common goal, while low cohesion means that the elements are unrelated or work against each other. High coupling means that the elements of the system are tightly connected and dependent on each other, while low coupling means that the elements are independent and can be changed or replaced without affecting the rest of the system.
+
+In the Ruby programming language, cohesion and coupling are important concepts because they affect the design and maintainability of Ruby programs. High cohesion is generally considered to be a good thing in Ruby, because it leads to code that is easier to understand, maintain, and extend. High coupling, on the other hand, can make Ruby programs more difficult to work with, because changes to one part of the system can have unintended consequences in other parts of the system.
+
+To achieve high cohesion and low coupling in Ruby, it is important to design your code in a modular and flexible way. This means breaking your code into small, reusable components that can be combined to solve different problems. For example, in Ruby you can use classes, modules, and methods to organize your code into logical units that can be combined and reused in different contexts. You can also use techniques such as dependency injection and duck typing to reduce coupling and make your code more flexible.
+
+Overall, cohesion and coupling are important concepts to understand when working with the Ruby programming language. By following good design principles and keeping your code modular and flexible, you can create Ruby programs that are easy to maintain and extend over time.
