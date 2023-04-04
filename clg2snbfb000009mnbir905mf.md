@@ -11,6 +11,37 @@ Description: Discover how to create sustainable and adaptable code by effectivel
 
 ---
 
+Table of Contents
+
+1. Introduction
+    
+    * The Importance of Dependency Management in Software Design
+        
+2. Depend on Abstractions, Not Concretions
+    
+    * Promoting Code Reusability and Flexibility
+        
+3. Isolate Dependencies
+    
+    * Maintaining Stability and Adaptability in Your Code
+        
+4. Control the Direction of Dependencies
+    
+    * Minimizing the Ripple Effect of Changes
+        
+5. Inject Dependencies to Reduce Coupling
+    
+    * Dependency Injection Techniques: Constructor, Method, and Property Injection
+        
+6. Minimize the Number of Dependencies
+    
+    * Reducing Coupling and Enhancing Maintainability
+        
+7. Conclusion
+    
+    * Mastering Dependency Management for Sustainable and Adaptable Software
+        
+
 In the world of software development, the ability to create flexible and maintainable code is crucial. One key aspect of achieving this lies in effective dependency management. By skillfully handling dependencies, developers can ensure that their applications can adapt to change while minimizing the impact of modifications. In this blog article, we'll discuss some key points on dependency management that will help you create sustainable and maintainable code.
 
 1. Depend on Abstractions, Not Concretions
