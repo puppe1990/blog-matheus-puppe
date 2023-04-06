@@ -7,7 +7,7 @@ tags: ruby
 
 ---
 
-Description: Dive into the concept of single responsibility in object-oriented programming, exploring practical tips for designing classes and methods that are focused, cohesive, and adaptable to change.
+Description: Dive into the concept of single responsibility in object-oriented programming from Chapter 2 of Book **Practical Object-Oriented Design: An Agile Primer Using Ruby by Sandy Metz**, exploring practical tips for designing classes and methods that are focused, cohesive, and adaptable to change.
 
 ---
 
