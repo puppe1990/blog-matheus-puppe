@@ -11,7 +11,7 @@ Description: Delve into the world of object-oriented design, understanding its p
 
 ---
 
-In the ever-evolving landscape of software development, applications must adapt to changing requirements. Object-oriented design (OOD) aims to arrange code in such a way that it easily accommodates these changes. Although the principles and patterns of OOD are crucial, applying them effectively requires a harmonious blend of theory and practice. In this article, we'll explore the key points from Chapter 1 of our journey into mastering object-oriented design.
+In the ever-evolving landscape of software development, applications must adapt to changing requirements. Object-oriented design (OOD) aims to arrange code in such a way that it easily accommodates these changes. Although the principles and patterns of OOD are crucial, applying them effectively requires a harmonious blend of theory and practice. In this article, we'll explore the key points from Chapter 1 of Book **Practical Object-Oriented Design: An Agile Primer Using Ruby by Sandy Metz** of our journey into mastering object-oriented design.
 
 **Embracing Change with Object-Oriented Design**
 
@@ -50,7 +50,7 @@ Object-oriented languages, such as Ruby, combine data and behavior into objects,
 
 **Putting Theory into Practice**
 
-While theory is essential for understanding, practice is what actually builds applications. Practice operates in the real world, facing uncertainty and constraints, and aims to make the best use of available resources. Mastering object-oriented design ultimately requires balancing theory and practice to build adaptable, efficient applications.  
-  
+While theory is essential for understanding, practice is what actually builds applications. Practice operates in the real world, facing uncertainty and constraints, and aims to make the best use of available resources. Mastering object-oriented design ultimately requires balancing theory and practice to build adaptable, efficient applications.
+
 BOOK LINK:  
 [**CLICK HERE!**](https://amzn.to/40NSj3m)
