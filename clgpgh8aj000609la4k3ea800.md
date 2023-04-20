@@ -1,8 +1,8 @@
 ---
-title: "SUMMART - The Almanack of Naval Ravikant - Eric Jorgenson"
+title: "SUMMARY - The Almanack of Naval Ravikant - Eric Jorgenson"
 datePublished: Thu Apr 20 2023 18:28:15 GMT+0000 (Coordinated Universal Time)
 cuid: clgpgh8aj000609la4k3ea800
-slug: summart-the-almanack-of-naval-ravikant-eric-jorgenson
+slug: summary-the-almanack-of-naval-ravikant-eric-jorgenson
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682015200819/d68338d1-66d4-4a5a-a899-c7610375c069.jpeg
 tags: book-summary
 
