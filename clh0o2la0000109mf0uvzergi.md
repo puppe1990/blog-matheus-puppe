@@ -25,6 +25,8 @@ The first category is self-improvement. There are over 15,000 self-help books pu
 * The Courage to Be Disliked: Explores the ideas of psychologist Alfred Adler who believed we are drawn to goals we set ourselves, not past causes. Easy to understand.
     
 
+%[https://www.youtube.com/watch?v=ljHgIoj3eEs] 
+
 The second category is relationships. No one is taught how to have good relationships; you have to learn through experience. Recommendations:
 
 * The Way of the Superior Man by David Deida: Supports the idea that men and women are equal but different. Helps understand masculine-feminine energy dynamics.
