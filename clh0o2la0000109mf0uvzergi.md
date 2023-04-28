@@ -59,3 +59,6 @@ Ayan enjoys reading and learning. Some of their favorite books include:
     
 
 In summary, Ayan is an avid reader interested in philosophy, spirituality, success, and personal development. Their wide range of interests reflects an open and curious mind.
+
+RECOMENDED ARTICLE:  
+[https://resumolivros.com.br/summary-the-courage-to-be-disliked-ichiro-kishimi](https://resumolivros.com.br/summary-the-courage-to-be-disliked-ichiro-kishimi)
