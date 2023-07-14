@@ -1,8 +1,8 @@
 ---
-title: "[DEEP SUMMARY] - Shape UP - Basecamp"
+title: "[SHALLOW SUMMARY] - Shape UP - Basecamp"
 datePublished: Fri Jul 14 2023 21:51:27 GMT+0000 (Coordinated Universal Time)
 cuid: clk345yfa000a0amd7jqbdzhl
-slug: deep-summary-shape-up-basecamp
+slug: shallow-summary-shape-up-basecamp
 tags: agile-methodology
 
 ---
